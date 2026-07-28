@@ -1,52 +1,64 @@
-<div align="center">
+# João Pedro Chaves
 
-# João Chaves
+**Data Analyst · Business Intelligence · Data Automation**
 
-**Data Analyst** — Python · SQL · ETL · Power BI
+Building data-driven solutions through **analytics, automation and business intelligence**.
 
-[LinkedIn](https://www.linkedin.com/in/joaochvs) · [Email](mailto:joaopdr.almeida@gmail.com)
+---
 
-</div>
+## Tech Stack
 
-<br>
+**Data & Analytics**
+`SQL` `Python` `Pandas` `PostgreSQL` `MySQL` `SQLite` `Data Cleaning`
 
-I build data pipelines and dashboards that turn raw data into decisions — mostly with Python, SQL and Power BI.
+**Business Intelligence**
+`Power BI` `DAX` `Power Query` `Looker Studio` `Excel` `Google Sheets`
 
-<br>
+**Data Engineering & Automation**
+`ETL` `REST APIs` `Streamlit` `SharePoint` `Process Automation`
 
-```
-Python · SQL · Pandas · PostgreSQL · MySQL · SQLite
-Power BI · Looker Studio · Streamlit · React Native
-Git · GitHub · REST APIs
-```
+**Development & Tools**
+`React Native` `Expo` `Git` `GitHub`
 
-<br>
+---
 
-### Projects
+## What I Do
 
-**[streamlit-censo](https://github.com/joaochvs/streamlit-censo)**
-Streamlit app for exploratory analysis of Census data
-`Python` `Streamlit` `Pandas`
+* 📊 **Data Analysis** — transforming raw data into actionable insights
+* 📈 **Business Intelligence** — dashboards, KPIs and performance analysis
+* ⚙️ **Data Automation** — ETL pipelines and automated workflows
+* 🔗 **Data Integration** — APIs, databases and structured data flows
+* 💻 **Data Applications** — practical solutions connecting data and operations
 
-**[app_mobile_deep](https://github.com/joaochvs/app_mobile_deep)**
-Offline-first mobile app for field data collection
-`React Native` `Expo` `SQLite`
+---
 
-**[projetos-analise-de-dados](https://github.com/joaochvs/projetos-analise-de-dados)**
-Data analysis projects and notebooks
-`Python` `SQL` `Pandas`
+## Featured Projects
 
-<br>
+**📊 Business Intelligence**
+Interactive dashboards and analytical solutions focused on KPIs, performance and decision-making.
 
-<div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=joaochvs&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaochvs&layout=compact&theme=github_dark&hide_border=true&hide_title=true" />
-</div>
+**⚙️ ETL & Data Automation**
+Automated data pipelines using Python, APIs and data processing workflows.
 
-<br>
+**📱 Data Applications**
+Applications that connect data with real-world operational processes using databases and modern development tools.
 
-<div align="center">
+---
 
-<sub>São Paulo, Brazil</sub>
+## Currently Learning
 
-</div>
+`Advanced SQL` · `Python for Data` · `Data Engineering` · `Cloud Data Platforms`
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square\&logo=linkedin\&logoColor=white)](SEU_LINKEDIN)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square\&logo=googlechrome\&logoColor=white)](SEU_PORTFOLIO)
+
+---
+
+<p align="center">
+  <sub>Data · Automation · Business Intelligence</sub>
+</p>
