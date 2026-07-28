@@ -87,8 +87,7 @@
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [`projetos-analise-de-dados`](https://github.com/joaochvs/projetos-analise-de-dados) | Repositório de projetos de análise de dados | `Python` `Pandas` `SQL` |
-| [`streamlit-censo`](https://github.com/joaochvs/streamlit-censo) | Aplicação em Streamlit para análise de dados do Censo | `Python` `Streamlit` |
-| [`app_mobile_deep`](https://github.com/joaochvs/app_mobile_deep) | App mobile híbrido (online/offline) para consulta de dados em campo | `React Native` `Expo` `SQLite` |
+
 
 <br>
 
