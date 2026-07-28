@@ -1,4 +1,4 @@
-# João Pedro Chaves
+# João Chaves
 
 **Data Analyst · Business Intelligence · Data Automation**
 
