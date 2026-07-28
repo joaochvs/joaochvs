@@ -92,8 +92,6 @@
 | Repositório | Descrição |
 |---|---|
 | [`projetos-analise-de-dados`](https://github.com/joaochvs/projetos-analise-de-dados) | Repositório de projetos em análise de dados |
-| [`streamlit-censo`](https://github.com/joaochvs/streamlit-censo) | Aplicação em Streamlit para análise de dados do Censo |
-| [`app_mobile_deep`](https://github.com/joaochvs/app_mobile_deep) | App mobile híbrido (React Native + Expo) usado por agentes de campo |
 
 > 💡 Dica: use o **"Customize your pins"** no seu perfil para fixar esses (e outros) repositórios no topo.
 
