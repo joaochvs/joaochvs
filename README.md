@@ -1,101 +1,41 @@
 # João Chaves
 
-**Data Analyst · Business Intelligence · Data Automation**
+**Analista de Dados | SQL · Python · Power BI**
 
-Building data-driven solutions through **analytics, automation and business intelligence**.
+Atuo com análise de dados e automação, transformando dados operacionais e comerciais em informações para acompanhar resultados e apoiar decisões. Desenvolvo dashboards, indicadores e soluções para integrar fontes, tratar bases e automatizar rotinas.
 
----
+Meu trabalho combina entendimento das necessidades do negócio, preparação dos dados e comunicação dos resultados.
 
-## Tech Stack
+## Competências
 
-### Data & Analytics
+| Área | Conhecimentos |
+|---|---|
+| Análise de dados | SQL, Python, pandas, análise exploratória e indicadores de desempenho |
+| Business Intelligence | Power BI, DAX, Power Query, Excel e Looker Studio |
+| Bancos de dados | PostgreSQL e MySQL; joins, CTEs, subconsultas e funções de janela |
+| Automação e integração | ETL, APIs REST, tratamento de bases e automação de relatórios |
+| Desenvolvimento | Git, GitHub e aplicações de dados com Streamlit |
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="45"/>
-  <img src="https://skillicons.dev/icons?i=postgresql" height="45"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" height="45"/>
-  <img src="https://skillicons.dev/icons?i=pandas" height="45"/>
-</p>
+Conhecimentos complementares em AWS, PySpark, Databricks, Docker, data lake e data warehousing.
 
-### Business Intelligence
+## Projetos em destaque
 
-<p>
-  <img src="https://skillicons.dev/icons?i=powerbi" height="45"/>
-  <img src="https://skillicons.dev/icons?i=excel" height="45"/>
-</p>
+### [Análises de dados com SQL e Power BI](https://github.com/joaochvs/projetos-analise-de-dados)
 
-### Data Engineering & Automation
+Consultas SQL e dashboards de vendas para explorar resultados, acompanhar indicadores e apoiar análises de negócio. O repositório inclui os scripts e os arquivos do Power BI.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="45"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" height="45"/>
-  <img src="https://skillicons.dev/icons?i=streamlit" height="45"/>
-  <img src="https://skillicons.dev/icons?i=git" height="45"/>
-  <img src="https://skillicons.dev/icons?i=github" height="45"/>
-</p>
+### [Ferramentas de tratamento e auditoria de dados](https://github.com/joaochvs/streamlit-censo)
 
-### Development
+Aplicação em Python e Streamlit para consolidar bases, aplicar regras de negócio, conferir inconsistências e gerar relatórios. Reúne ferramentas de tratamento, conferência de pendências e comparação de produtividade.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react" height="45"/>
-  <img src="https://skillicons.dev/icons?i=expo" height="45"/>
-</p>
+### [Automação de relatórios de campo](https://github.com/joaochvs/adutora-streamlit)
 
----
+Processamento de planilhas Excel com histórico de visitas e regras de atendimento, gerando relatórios em PDF para apoiar o planejamento das atividades de campo.
 
-## What I Work With
+### [Job Applier](https://github.com/joaochvs/job-applier)
 
-* 📊 **Data Analysis** — SQL, Python, Pandas and data cleaning
-* 📈 **Business Intelligence** — Power BI, DAX, Power Query and dashboards
-* ⚙️ **Data Automation** — ETL pipelines, APIs and automated workflows
-* 🔗 **Data Integration** — REST APIs, databases and structured data flows
-* 💻 **Data Applications** — Streamlit and React Native solutions
+Aplicação local para organizar a busca e o preenchimento de candidaturas. Combina triagem por regras, integração com navegador, fila de execução, tratamento de pendências e histórico, com testes automatizados no GitHub Actions.
 
----
+## Contato
 
-## Featured Projects
-
-### 📊 Business Intelligence
-
-Dashboards and analytical solutions focused on KPIs, performance monitoring and decision-making.
-
-### ⚙️ ETL & Data Automation
-
-Automated pipelines using Python, APIs and data processing workflows.
-
-### 📱 Data Applications
-
-Solutions connecting data with real-world operational processes, databases and applications.
-
----
-
-## Currently Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postgresql" height="40"/>
-  <img src="https://skillicons.dev/icons?i=azure" height="40"/>
-</p>
-
-**Advanced SQL · Python for Data · Data Engineering · Cloud Data Platforms**
-
----
-
-## Connect
-
-<p>
-  <a href="SEU_LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  &nbsp;
-  <a href="SEU_GITHUB">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <sub>Data · Automation · Business Intelligence</sub>
-</p>
+[LinkedIn](https://www.linkedin.com/in/joaochvs/) · [Repositórios](https://github.com/joaochvs?tab=repositories)
