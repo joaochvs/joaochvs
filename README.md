@@ -1,32 +1,31 @@
 # João Chaves
 
-**Analista de Dados | SQL · Python · Power BI**
+**Engenharia de Dados · Analytics Engineering · Análise de Dados**
 
-Atuo com análise de dados e automação, transformando dados operacionais e comerciais em informações para acompanhar resultados e apoiar decisões. Desenvolvo dashboards, indicadores e soluções para integrar fontes, tratar bases e automatizar rotinas.
+Desenvolvo soluções com tecnologia e dados, conectando fontes, automatizando processos e preparando bases para consumo analítico. Meu foco é Engenharia de Dados e Analytics Engineering, com uma base prática em análise de dados e Business Intelligence.
 
-Meu trabalho combina entendimento das necessidades do negócio, preparação dos dados e comunicação dos resultados.
+Minha experiência reúne integração por APIs, tratamento e validação de dados, modelagem, consultas SQL e construção de indicadores. Trabalho com Python e SQL para organizar os dados e com ferramentas de BI para transformar regras de negócio em análises e acompanhamento de resultados.
 
 ## Competências
 
 | Área | Conhecimentos |
 |---|---|
-| Análise de dados | SQL, Python, pandas, análise exploratória e indicadores de desempenho |
-| Business Intelligence | Power BI, DAX, Power Query, Excel e Looker Studio |
+| Engenharia de Dados | Python, pandas, SQL, ETL, APIs REST, integração e tratamento de dados |
+| Analytics Engineering | Transformações SQL, modelagem de dados para análise, regras de negócio, validação e padronização de indicadores |
 | Bancos de dados | PostgreSQL e MySQL; joins, CTEs, subconsultas e funções de janela |
-| Automação e integração | ETL, APIs REST, tratamento de bases e automação de relatórios |
-| Desenvolvimento | Git, GitHub e aplicações de dados com Streamlit |
-
-Conhecimentos complementares em AWS, PySpark, Databricks, Docker, data lake e data warehousing.
+| Plataformas e processamento | Conhecimentos em AWS, PySpark, Databricks, Docker, data lake e data warehousing |
+| Análise de Dados e BI | Power BI, DAX, Power Query, Excel, Looker Studio e dashboards |
+| Desenvolvimento e automação | Git, GitHub, automação de rotinas e aplicações de dados com Streamlit |
 
 ## Projetos em destaque
 
-### [Análises de dados com SQL e Power BI](https://github.com/joaochvs/projetos-analise-de-dados)
-
-Consultas SQL e dashboards de vendas para explorar resultados, acompanhar indicadores e apoiar análises de negócio. O repositório inclui os scripts e os arquivos do Power BI.
-
 ### [Ferramentas de tratamento e auditoria de dados](https://github.com/joaochvs/streamlit-censo)
 
-Aplicação em Python e Streamlit para consolidar bases, aplicar regras de negócio, conferir inconsistências e gerar relatórios. Reúne ferramentas de tratamento, conferência de pendências e comparação de produtividade.
+Aplicação em Python e Streamlit para consolidar bases, aplicar regras de negócio, conferir inconsistências e gerar relatórios. Destaca tratamento e qualidade dos dados, com ferramentas de conferência de pendências e comparação de produtividade.
+
+### [Transformações e análises com SQL e Power BI](https://github.com/joaochvs/projetos-analise-de-dados)
+
+Consultas SQL e dashboards de vendas para preparar dados para análise, acompanhar indicadores e explorar resultados de negócio. O repositório inclui os scripts e os arquivos do Power BI, conectando a preparação dos dados ao consumo analítico.
 
 ### [Automação de relatórios de campo](https://github.com/joaochvs/adutora-streamlit)
 
